@@ -1,29 +1,18 @@
 
 # Hi there, I'm Malak! 👋
 
-🎓 AI student at the University of Jordan 🇲🇦
+🎓 AI student at the University of Jordan
+Passionate about building intelligent solutions and exploring how AI can solve real-world problems.
 
-🤖 Interested in Artificial Intelligence, Machine Learning, and NLP.
+### 🔭 Currently working on
+- Mindora:an AI-powered interview coach.
+- Exploring Machine Learning, Deep Learning,Computer vision, and NLP through hands-on projects.
 
-💡 I enjoy turning ideas into practical AI projects and learning by building.
+### 🛠️ Tools & Technologies
+- **Languages:** Python
+- **Tools:** Git, GitHub, Streamlit, Jupyter Notebook,Visual studio code
 
-🚀 Currently exploring ML, Deep Learning, and intelligent applications.
+### 📫 Let's Connect
+- **GitHub:** [@malaknajah191-blip](https://github.com/malaknajah191-blip)
+- **LinkedIn:** [(https://www.linkedin.com/in/malak-najah-39017729b/)]
 
-
-📫 Let's connect and build something meaningful!
-
-
-<!--
-**malaknajah191-blip/malaknajah191-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
