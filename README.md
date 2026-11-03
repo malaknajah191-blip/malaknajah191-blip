@@ -4,8 +4,7 @@
 🎓 AI student at the University of Jordan
 Passionate about building intelligent solutions and exploring how AI can solve real-world problems.
 
-### 🔭 Currently working on
-- Mindora:an AI-powered interview coach.
+### 🔭 Currently 
 - Exploring Machine Learning, Deep Learning,Computer vision, and NLP through hands-on projects.
 
 ### 🛠️ Tools & Technologies
