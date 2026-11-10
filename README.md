@@ -5,7 +5,9 @@
 Passionate about building intelligent solutions and exploring how AI can solve real-world problems.
 
 ### 🔭 Currently 
-- Exploring Machine Learning, Deep Learning,Computer vision, and NLP through hands-on projects.
+- Exploring ,Deep Learning,Computer vision, and NLP through hands-on projects.
+- Working on a machine learning project called "Mindora" it's an AI interview coach that will help you to practice some thechnical questions.
+- Learning Agentic AI 
 
 ### 🛠️ Tools & Technologies
 - **Languages:** Python
